@@ -86,3 +86,7 @@ python run_variance.py       # per-step variance probe
   year={2026}
 }
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
