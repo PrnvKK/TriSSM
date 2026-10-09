@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+out/
+logs/
+data/
+*.bin
+*.pt
+*.model
+*.vocab
